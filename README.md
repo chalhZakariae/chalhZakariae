@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Chalh Zakariae</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Full stack developer from Morocco</h3>
+
+- 🔭 I’m currently working on **my final year project**
+
+- 🌱 I’m currently learning **JAVA, ASP.NET**
+
+- 💬 Ask me about **C#**
+
+- 📫 How to reach me **chalhzakariae3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
